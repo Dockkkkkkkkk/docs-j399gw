@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-lyu1hh.trans88.space/sitemap.xml
